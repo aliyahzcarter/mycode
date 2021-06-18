@@ -12,7 +12,7 @@
  	for (i; i>=0; i--)
  	{
  		
- 		printf("%d",array[i]);
+ 		cout<<array[i];
  		
 	 }
  	
